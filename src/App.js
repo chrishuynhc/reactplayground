@@ -44,4 +44,12 @@ var CheckBox = React.createClass({
     }
 })
 
+var Board = React.createClass({
+
+});
+
+var Comment = React.createClass({
+    
+})
+
 export default App;
