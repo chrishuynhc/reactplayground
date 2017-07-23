@@ -42,7 +42,7 @@ var CheckBox = React.createClass({
           </div>
         );
     }
-})
+});
 
 var Board = React.createClass({
 
@@ -50,6 +50,6 @@ var Board = React.createClass({
 
 var Comment = React.createClass({
     
-})
+});
 
 export default App;
